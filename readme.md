@@ -1,4 +1,4 @@
-my first repository.
+my second repository.
 
 
 project disc
